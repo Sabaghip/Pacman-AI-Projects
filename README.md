@@ -24,3 +24,18 @@ Other Projects:
    <p align="center">
       <img src="https://github.com/Sabaghip/Pacman-AI-Projects/blob/main/other%20projects/rubic/animation.gif" width="540" />
    </p>
+
+   Rollit:
+   <p align="center">
+      <img src="https://github.com/Sabaghip/Pacman-AI-Projects/blob/main/other%20projects/rollit/animation.gif" width="540" />
+   </p>
+
+   Frozen Lake:
+   <p align="center">
+      <img src="https://github.com/Sabaghip/Pacman-AI-Projects/blob/main/other%20projects/frozen%20lake/animation.gif" width="540" />
+   </p>
+
+   Snake:
+   <p align="center">
+      <img src="https://github.com/Sabaghip/Pacman-AI-Projects/blob/main/other%20projects/snake/image.png" width="540" />
+   </p>
