@@ -17,3 +17,10 @@ The [Pac-Man Projects, developed at UC Berkeley](http://ai.berkeley.edu), aims t
    Employ Markov decision processes and reinforcement learning techniques, such as Value Iteration, Q-learning, and Approximate Q-learning, to enable Pacman agents to learn and improve their performance over time. Agents can adapt and make optimal decisions by maximizing cumulative rewards.
 - ### 4-GhustBusters
    Utilize probabilistic models, such as Bayesian networks and Hidden Markov Models, to reason under uncertainty and make informed decisions in complex situations.
+
+
+Other Projects:
+  Rubic:
+   <p align="center">
+      <img src="https://github.com/Sabaghip/Pacman-AI-Projects/blob/main/other%20projects/rubic/animation.gif" width="540" />
+   </p>
